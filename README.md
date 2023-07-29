@@ -1,6 +1,6 @@
 ## Client Affiliation Python Automatization v1
 
-![Static Badge](https://img.shields.io/badge/status-test-green)
+![Static Badge](https://img.shields.io/badge/version-v1-green)
 
 ![Static Badge](https://img.shields.io/badge/DevTeam-seti-red?style=for-the-badge&logo=github)
 
