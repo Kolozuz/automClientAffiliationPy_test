@@ -1,4 +1,4 @@
-## Client Affiliation Automatization v1
+## Client Affiliation Python Automatization v1
 
 ![Static Badge](https://img.shields.io/badge/status-test-green)
 
