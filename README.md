@@ -10,3 +10,17 @@ The objective of this repository is to create an automatization algorithm with P
 ### Disclaimer
 
 This is a small project, a sort of first step into automatization with python, and it is not meant to be something too big, the whole purpouse of this is to get some experience that will allow us to explore better alternatives (scalability, performance, practicality etc.)
+
+## How to Use
+
+- Clone this repo:
+
+> ```sh
+> git clone https://github.com/Kolozuz/ automClientAffiliation_test
+> ```
+
+2. Install the libraries from the requirements.txt file:
+
+> ```sh
+> pip install -r requirements.txt
+> ```
