@@ -13,7 +13,7 @@ This is a small project, a sort of first step into automatization with python, a
 
 ## How to Use
 
-- Clone this repo:
+1. Clone this repo:
 
 > ```sh
 > git clone https://github.com/Kolozuz/ automClientAffiliation_test
